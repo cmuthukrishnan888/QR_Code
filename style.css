@@ -29,7 +29,8 @@ body{
     border-radius: 10px;
 }
 
-h3{
+h2{
+    font-size: 1.4rem;
     color: #1f314f;
 }
 
@@ -43,7 +44,7 @@ p{
         width: 100%;   
     }
 
-    h3{
+    h2{
         font-size:1.2rem ;
     }
 
